@@ -135,7 +135,8 @@
   <div class="card">
     <img src="./profile.webp" onerror="this.src='profilealun.jpg'" alt="Foto Ferdi" class="profile-img">
     <h1>Ferdi Kurniawan</h1>
-    <p class="tagline">tidak ada opsi menyerah, selagi mata masih terbuka</p>
+    <p class="tagline">tidak ada opsi menyerah,
+                                            selagi mata masih terbuka</p>
     <p class="intro">Mari bersilaturahmi melalui platform berikut:</p>
     <div class="social-links">
       <a href="https://instagram.com/ferdi_krn" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
